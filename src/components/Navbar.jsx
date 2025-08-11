@@ -12,8 +12,7 @@ const Navbar = () => {
             </div>
 
             <div className="m-8 flex item-center justify-center gap-4 text-2xl">
-                <a href="https://www.linkedin.com/in/
- subhash-k-a02b16202">
+                <a href="https://www.linkedin.com/in/subhash-k-a02b16202/">
                     <FaLinkedin />
                 </a>
                 <a href="https://github.com/myselfSubhash">
